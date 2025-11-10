@@ -8,7 +8,6 @@ public class Main {
         double A = sc.nextInt();
         double B = sc.nextInt();
         
-        double s = A/B;
-        System.out.println(s);
+        System.out.println(A/B);
     }
 }
